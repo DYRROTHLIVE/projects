@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RAZY</string>
+    <string name="title_activity_main">RAZY</string>
+    <string name="package_name">com.razy.app</string>
+    <string name="custom_url_scheme">com.razy.app</string>
+</resources>
